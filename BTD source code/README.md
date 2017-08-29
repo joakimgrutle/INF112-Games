@@ -2,7 +2,7 @@
 
 Code is located in core/src/*
 
-Assets is located in core/assets/*
+Assets are located in core/assets/*
 
 Almost all of the assets were made by individuals in the group, and the rest is open game art.
 
